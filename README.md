@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Havvyno
-- 👀 I’m interested in technology, life and all that
-- 🌱 I’m currently learning JavaScript
-- 💞️ Not currently looking for collaborations
-- 📫 How to contact me: devpagenetwork@gmail.com
+- 👋 Привет, я @Havvyno
+- 👀 Меня интересуют технологии, жизнь и все такое
+- 🌱 Сейчас я изучаю JavaScript
+- 💞️ В настоящее время не ищу сотрудничества
+- 📫 Как со мной связаться: devpagenetwork@gmail.com
 
 <!---
 Havvyno/Havvyno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
